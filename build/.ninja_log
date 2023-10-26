@@ -1,0 +1,21 @@
+# ninja log v5
+0	10	0	/home/yjc/YJC_PROJECTS/objLoader/build/CMakeFiles/cmake.verify_globs	2504560b28c24589
+0	2340	1698238604580121490	CMakeFiles/obj_loader.dir/main.cpp.o	3a70edf297e83163
+2340	2442	1698238604684121394	obj_loader	f39332c084e5536d
+1	3756	1698229007686648748	CMakeFiles/obj_loader.dir/tiny_obj_loader.cpp.o	6a9580dab469231f
+0	9	0	/home/yjc/YJC_PROJECTS/objLoader/build/CMakeFiles/cmake.verify_globs	2504560b28c24589
+0	10	0	/home/yjc/YJC_PROJECTS/objLoader/build/CMakeFiles/cmake.verify_globs	2504560b28c24589
+1	3048	1698290986521305307	CMakeFiles/obj_loader.dir/main.cpp.o	3a70edf297e83163
+3048	3151	1698290986621303646	obj_loader	f39332c084e5536d
+0	10	0	/home/yjc/YJC_PROJECTS/objLoader/build/CMakeFiles/cmake.verify_globs	2504560b28c24589
+1	3008	1698291682982538444	CMakeFiles/obj_loader.dir/main.cpp.o	3a70edf297e83163
+3008	3101	1698291683078537934	obj_loader	f39332c084e5536d
+0	10	0	/home/yjc/YJC_PROJECTS/objLoader/build/CMakeFiles/cmake.verify_globs	2504560b28c24589
+1	2898	1698292037226971210	CMakeFiles/obj_loader.dir/main.cpp.o	3a70edf297e83163
+2898	2991	1698292037322978318	obj_loader	f39332c084e5536d
+0	9	0	/home/yjc/YJC_PROJECTS/objLoader/build/CMakeFiles/cmake.verify_globs	2504560b28c24589
+0	2924	1698292425696967570	CMakeFiles/obj_loader.dir/main.cpp.o	3a70edf297e83163
+2924	3023	1698292425792971706	obj_loader	f39332c084e5536d
+0	8	0	/home/yjc/YJC_PROJECTS/objLoader/build/CMakeFiles/cmake.verify_globs	2504560b28c24589
+1	3075	1698292460634440565	CMakeFiles/obj_loader.dir/main.cpp.o	3a70edf297e83163
+3075	3170	1698292460730444528	obj_loader	f39332c084e5536d
