@@ -1,0 +1,3 @@
+/home/yjc/YJC_PROJECTS/objLoader/build/CMakeFiles/obj_loader.dir
+/home/yjc/YJC_PROJECTS/objLoader/build/CMakeFiles/edit_cache.dir
+/home/yjc/YJC_PROJECTS/objLoader/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/yjc/YJC_PROJECTS/objLoader/build",
+  "command": "/usr/local/bin/g++ -g -std=gnu++20 -o CMakeFiles/obj_loader.dir/main.cpp.o -c /home/yjc/YJC_PROJECTS/objLoader/main.cpp",
+  "file": "/home/yjc/YJC_PROJECTS/objLoader/main.cpp"
+},
+{
+  "directory": "/home/yjc/YJC_PROJECTS/objLoader/build",
+  "command": "/usr/local/bin/g++ -g -std=gnu++20 -o CMakeFiles/obj_loader.dir/tiny_obj_loader.cpp.o -c /home/yjc/YJC_PROJECTS/objLoader/tiny_obj_loader.cpp",
+  "file": "/home/yjc/YJC_PROJECTS/objLoader/tiny_obj_loader.cpp"
+}
+]
